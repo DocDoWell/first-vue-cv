@@ -1,2 +1,6 @@
-# first-vue-cv
-learning Vue and creating an online cv. Here is my first go with npm as a server
+npm install to get node dependencies
+
+npm run serve to run server locally
+
+
+My first attempt at vue.js using local dev service. Hopefully will build on this to have a completed online CV attempt.
